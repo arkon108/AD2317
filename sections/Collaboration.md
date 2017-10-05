@@ -6,7 +6,7 @@ I'm inviting anyone willing to help, suggest, comment or edit the text while it'
 
 Why use Github to write a novel?
 ----------------------------------------------------------
-It's not a first novel written on GitHub, but since GitHub is a _code repository_ it still might seem odd, especially to non-programmers. As a software engineer, I find git and other versioning systems indispensable in professional work. They make collaboration on complex codebases possible, and provide many other advantages. All of which can be applicable to many other works which may, or may not be collaborative, such as book, for example 🤓 
+It's not a first novel written on GitHub, but since GitHub is a _code repository_ it still might seem odd, especially to non-programmers. As a software engineer, I find git and other versioning systems indispensable in professional work. They make collaboration on complex codebases possible, and provide many other advantages. All of which can be applicable to many other works which may, or may not be collaborative, such as a book, for example 🤓 
 
 ### Other reasons in no particular order ###
 
