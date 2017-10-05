@@ -1,5 +1,6 @@
 From The Frozen Acheron
-=======================
+==========================================================
+
 
 ![Book Cover Illustration](media/cover-sketch-lq.jpg)
 
@@ -8,7 +9,7 @@ This is a repository for the novel I'm writing during [Nanowrimo](http://nanowri
 
 
 Table Of Contents
-----------------------------------------------------
+----------------------------------------------------------
 
 
 * [Alternative Titles](#alternative-titles)
@@ -18,11 +19,11 @@ Table Of Contents
 * [Acknowledgements](sections/Acknowledgements.md)
 
 
-----------------------------------------------------
+----------------------------------------------------------
 
 
 Alternative titles
-----------------------------------------------------
+----------------------------------------------------------
 
 * (Gazing up) From the frozen Styx/Hades/Hell
 * 2317 A.D. (Aléxandros Domini)
@@ -34,12 +35,14 @@ Alternative titles
 
 
 
-----------------------------------------------------
+----------------------------------------------------------
 
 
 
 Synopsis
-----------------------------------------------------
+----------------------------------------------------------
+
+
 Can a chance encounter change the course of history? How about a single event affecting _multiple histories_? Can our future be shaped by _someone else’s_ past? Can our future be stolen by someone from our past that we never imagined would come back? 
 
 Until the day of the Raptures these were just amusing questions. When the Raptures hit and brought the monsters, the mechanical soldiers of Hell, and after them, the undead heroes we knew only from myth and legend - to the ones witnessing the unimaginable powers of destruction summoned upon our Earth, the answers to those questions became a matter of survival. 
@@ -48,11 +51,13 @@ They came after the Sin of their fathers had killed their Sun. Struggling to bre
 
 Facing the world-eating monstrosities, finding the answers to those questions became the only hope for survival of the Earth.
 
-----------------------------------------------------
+
+----------------------------------------------------------
 
 Next > [Prologue](sections/Prologue.md)
 
-----------------------------------------------------
+----------------------------------------------------------
+
 
 • (Ɔ) 2017 Saša Tomislav Mataić • All Rights Reversed •
 
