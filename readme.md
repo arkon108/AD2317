@@ -9,11 +9,14 @@ This is a repository for the novel I'm writing during [Nanowrimo](http://nanowri
 
 Table Of Contents
 ----------------------------------------------------
-* [Synopsis](#Synopsis)
-* [Alternative Titles](#Alternative%20Titles)
-* [Acknowledgements](sections/Acknowledgements.md)
+
+
+* [Alternative Titles](#alternative-titles)
+* [Synopsis](#synopsis)
 * [Prologue](sections/Prologue.md)
-* [Chapter 0.](chapters/00.md)
+* [Chapter 00.](chapters/00.md)
+* [Acknowledgements](sections/Acknowledgements.md)
+
 
 ----------------------------------------------------
 
@@ -31,6 +34,8 @@ Alternative titles
 
 
 
+----------------------------------------------------
+
 
 
 Synopsis
@@ -45,6 +50,10 @@ Facing the world-eating monstrosities, finding the answers to those questions be
 
 ----------------------------------------------------
 
-<small style="font-variant: small-caps"><span style="display:inline-block;transform: rotate(180deg);">&copy;</span> 2017 Saša Tomislav Mataić / All Rights Reversed.</small>
+Next > [Prologue](sections/Prologue.md)
+
+----------------------------------------------------
+
+• (Ɔ) 2017 Saša Tomislav Mataić • All Rights Reversed •
 
 
