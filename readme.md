@@ -5,7 +5,7 @@ From The Frozen Acheron
 ![Book Cover Illustration](media/cover-sketch-lq.jpg)
 
 
-This is a repository for the novel I'm writing during [Nanowrimo](http://nanowrimo.org) novel writing November 2017. The idea is to keep the material written in a repository, commiting new work and edits separately, with weekly tagged releases of newly writen "serialized" chapters. 
+This is a repository for the novel I'm will attempt to create during the [Nanowrimo](http://nanowrimo.org) novel writing November 2017. The idea is to keep the material written in a repository, commiting new work and edits separately, with weekly tagged releases of newly writen "serialized" chapters. 
 
 Using GitHub, it's also very easy to allow people editing the text to fix typos and other mistakes by making pull requests. More about participation in [the collaboration section](sections/Collaboration.md).
 
