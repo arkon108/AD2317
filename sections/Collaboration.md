@@ -19,6 +19,7 @@ It's not a first novel written on GitHub, but since GitHub is a _code repository
 * possibility of forking the book, e.g. creating multiple alternate endings 
 * weekly progress could be tagged as a release and then published as an episode
 * the editors can easily be tracked and properly credited in the acknowledgements section
+* GitHub's Issues tracker, Project manager and Wiki tools  
 * using a GitHub for a non-programming project might help bring it to the more wide audience who can benefit from all the (FREE!) life-saving features of versioning systems such as git
 
 
